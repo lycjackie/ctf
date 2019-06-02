@@ -4,6 +4,8 @@ So this weekend my team and I tried to qualify for [CDDC](https://www.dsta.gov.s
 
 So this is the walkthrough for the `OSINT-Red`
 
+Credits: My teammate @Creastery, [@tcode2k16](tcode2k16.github.io), [@lord_idiot](https://blog.idiot.sg/)
+
 ## Summary
 
 We are required to solve `[R-0] Everyone <3 Fan Mail` before we are able to unlock all other challenges for this category.
